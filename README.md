@@ -44,9 +44,9 @@ Do it 깃&깃허브 입문을 보고 있습니다.
   
 9. 링크
 + [링크 텍스트](링크 주소, "부가 설명")
-+ <https://www.naver.com/>
-+ [네이버](https://www.naver.com/)
-+ [네이버](https://www.naver.com/, "검색 사이트")
+  - <https://www.naver.com/>
+  - [네이버](https://www.naver.com/)
+  - [네이버](https://www.naver.com/, "검색 사이트")
 
 
 10. 이미지
